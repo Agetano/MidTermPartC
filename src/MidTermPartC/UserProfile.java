@@ -11,7 +11,7 @@
  * genres array. This code is to be used for SYST 17796 midterm exam.
  * Students are reminded to add themselves as modifiers when editing the
  * code.
- * @author dancye, 2019
+ * @author Andrei Agetano, February 2022
  */
 package MidTermPartC;
 public class UserProfile {
